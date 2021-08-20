@@ -1,1 +1,1 @@
-# Project testing nodejs with sequelize & express handlebars
+# Project testing nodejs with sequelize & express handlebars, using postgres as dB
