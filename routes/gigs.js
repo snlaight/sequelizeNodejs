@@ -37,7 +37,6 @@ router.get('/add', (req, res) => res.render('add'));
 
 //ADD A GIG
 router.post('/add', (req, res) => {
-    console.log(req.body)
   let { title, technologies, budget, description, contact_email } = req.body;
   let errors = [];
 
